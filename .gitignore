@@ -1,0 +1,16 @@
+# Python gereksiz dosyalari
+__pycache__/
+*.py[cod]
+
+# Kisisel Veriler (BUNLAR GITHUB'A GITMEYECEK)
+yuz_verileri/
+egitim_verisi.yml
+kisisel_fotograflar/
+
+# Eger ozel bir resim kullaniyorsan onu da engelle
+# (Yerine ornek bir resim koyabilirsin)
+# uyari_resmi.jpg
+
+# IDE ayarlari (VS Code vs.)
+.vscode/
+.idea/
